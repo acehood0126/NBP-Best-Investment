@@ -1,0 +1,20 @@
+{
+    "name": "pawlox/nbp-gold-investor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paweł Marciniak",
+            "email": "pawmarci@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
